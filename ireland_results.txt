@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vehicle xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://regcheck.org.uk">
+  <vehicleJson>{
+  "ABICode": "95058114",
+  "Description": "HONDA CIVIC 1.5 I-VTEC 180 BHP TURBO GT PACK (1498cc - 5 door)",
+  "RegistrationYear": "2017",
+  "CarMake": {
+    "CurrentTextValue": "HONDA"
+  },
+  "CarModel": {
+    "CurrentTextValue": "CIVIC"
+  },
+  "BodyStyle": {
+    "CurrentTextValue": "Hatchback"
+  },
+  "Transmission": {
+    "CurrentTextValue": "M"
+  },
+  "FuelType": {
+    "CurrentTextValue": "P"
+  },
+  "MakeDescription": {
+    "CurrentTextValue": "HONDA"
+  },
+  "ModelDescription": {
+    "CurrentTextValue": "CIVIC"
+  },
+  "NumberOfSeats": {
+    "CurrentTextValue": "0"
+  },
+  "NumberOfDoors": {
+    "CurrentTextValue": "5"
+  },
+  "EngineSize": {
+    "CurrentTextValue": "1498"
+  },
+  "ImageUrl": "http://www.carregistrationapi.ie/image.aspx/@SE9OREEgQ0lWSUM=",
+  "County": "Donegal"
+}</vehicleJson>
+  <vehicleData>
+    <ABICode>95058114</ABICode>
+    <Description>HONDA CIVIC 1.5 I-VTEC 180 BHP TURBO GT PACK (1498cc - 5 door)</Description>
+    <RegistrationYear>2017</RegistrationYear>
+    <CarModel>CIVIC</CarModel>
+    <BodyStyle>
+      <CurrentTextValue>Hatchback</CurrentTextValue>
+    </BodyStyle>
+    <EngineSize>
+      <CurrentTextValue>1498</CurrentTextValue>
+    </EngineSize>
+    <NumberOfDoors>
+      <CurrentTextValue>5</CurrentTextValue>
+    </NumberOfDoors>
+    <Transmission>
+      <CurrentTextValue>M</CurrentTextValue>
+    </Transmission>
+    <FuelType>
+      <CurrentTextValue>P</CurrentTextValue>
+    </FuelType>
+    <MakeDescription>HONDA</MakeDescription>
+    <ModelDescription>CIVIC</ModelDescription>
+    <NumberOfSeats>
+      <CurrentTextValue>0</CurrentTextValue>
+    </NumberOfSeats>
+  </vehicleData>
+</Vehicle>
